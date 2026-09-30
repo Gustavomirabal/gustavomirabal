@@ -20,7 +20,7 @@
 
 ## 🛠️ Habilidades
 
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)
+![c](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)
 ![CodeIgniter](https://img.shields.io/badge/-codeigniter-0D1117?style=for-the-badge&logo=codeigniter&labelColor=0D1117)
